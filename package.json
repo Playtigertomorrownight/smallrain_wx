@@ -1,8 +1,8 @@
 {
   "name": "smallrain_wx",
   "version": "1.0.0",
-  "description": "smallrain pages in wechat",
-  "author": "wangying <1652459824@qq.com>",
+  "description": "smallrain wx web project",
+  "author": "1652459824@qq.com",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",

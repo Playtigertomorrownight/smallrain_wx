@@ -1,6 +1,6 @@
 # smallrain_wx
 
-> smallrain pages in wechat
+> smallrain wx web project
 
 ## Build Setup
 
